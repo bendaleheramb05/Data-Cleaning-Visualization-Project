@@ -1,0 +1,13 @@
+ID,Name,Age,Gender,Department,Salary,Experience
+1,Rahul,24.0,Male,IT,35000.0,2
+2,Priya,28.0,Female,HR,42000.0,4
+3,Amit,,Male,Finance,50000.0,6
+4,Neha,31.0,Female,IT,60000.0,7
+5,Rohan,22.0,Male,Sales,30000.0,1
+8,Pooja,29.0,Female,IT,58000.0,5
+9,Ajay,26.0,Male,Sales,39000.0,3
+10,Anjali,30.0,Female,Finance,61000.0,6
+11,Rahul,24.0,Male,IT,35000.0,2
+12,Meena,38.0,Female,HR,48000.0,10
+13,Karan,23.0,Male,Sales,31000.0,1
+15,Komal,25.0,Female,Finance,45000.0,2
